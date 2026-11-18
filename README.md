@@ -11,3 +11,7 @@ This computer security coursework report documents a vulnerability assessment of
 ## Read the report
 
 Open or download [`HW5submit.docx`](HW5submit.docx) to see the screenshots and submission notes. This repository contains the lab report. The virtual machine, scanner, and lab setup are separate from the submission.
+
+## Project history
+
+Former repository name: `Computer-Security_CSCI_6531_HW5`. This repository preserves the original coursework and its development history.
